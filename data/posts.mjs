@@ -22,13 +22,13 @@ export const AUTHOR = {
 
 export const SITE = {
   name: "Ketensamenwerking Kennishub",
-  tagline: "Kennis en inzichten over ketensamenwerking in bouw en vastgoed",
+  tagline: "Kennis en inzicht over ketensamenwerking in de corporatie-, bouw- en installatiesector",
   domain: "ketensamenwerking.blog",
   url: "https://ketensamenwerking.blog",
   description:
     "Artikelen, onderzoek en publicaties van dr.ing. Marcel Noordhuis over ketensamenwerking en RGS in de corporatie-, bouw- en installatiesector.",
   email: "m.noordhuis@ketensamenwerking.nl",
-  linkedin: "https://www.linkedin.com/in/marcelnoordhuis/",
+  linkedin: "https://www.linkedin.com/company/kennishub-ketensamenwerking",
   siteUrl: "https://www.ketensamenwerking.nl/",
   platformUrl: "https://www.platform-ketensamenwerking.nl/",
 };
